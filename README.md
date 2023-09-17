@@ -1,1 +1,1 @@
-# git_flow2
+# git_flow2 project
